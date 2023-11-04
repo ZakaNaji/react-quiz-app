@@ -1,3 +1,3 @@
-export default function MainC({ children }) {
+export default function Body({ children }) {
   return <main className="main">{children}</main>;
 }
